@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Orai_munka",
+			"path": "../../../Desktop/20250911_Retkesivan/Orai_munka"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Orai_munka"
+	}
+}
